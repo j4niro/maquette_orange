@@ -6,6 +6,7 @@ import Services from './composant/block_3/services'
 import Payer from './composant/block_4/payer'
 import Achat from './composant/block_5/achat'
 import Help from './composant/block_6/Help'
+import Foot from './composant/foot/Foot'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
   <Payer />
   <Achat />
   <Help />
+  <Foot />
   </div>
   )
 }

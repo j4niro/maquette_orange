@@ -10,7 +10,7 @@ function Card_first({titre}) {
             <h3 style ={{fontSize : '12px', color : 'white', marginLeft : '5px', marginTop : '10px'}}>{titre}</h3>
             <div>
                 <p style={{fontSize : '12px', color : 'white', marginLeft : '5px', display : 'inline'}}>***** FCFA</p>
-                <img src="src\assets\icons8-eyes-64.png" alt="" height={10} width={10} style ={{marginLeft : '60px'}} />
+                <img src="src\assets\icon.png" alt="" height={20} width={20} style ={{marginLeft : '70px'}} />
             </div>
         </div>
     </div>
